@@ -1,6 +1,6 @@
 ## Oi, eu sou Daniele Ventura.
 
-Sou desenvolvedora estagiária Back-End na buzzmonitor utilizando Java, servlet e ElasticSearch. Atualmente venho estudando para ter uma base de conhecimento em Front-End e Mobile.
+Sou estagiária Back-End na buzzmonitor utilizando Java, servlet e ElasticSearch. Atualmente venho estudando para ter uma base de conhecimento em Front-End e Mobile.
  <div>
   <a href="https://github.com/Danieleventura/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieleventura&layout=compact&langs_count=7&theme=dracula"/>
