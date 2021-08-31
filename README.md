@@ -25,6 +25,6 @@
  <a href = "mailto:daniele.batista@aluno.uepb.edu.br
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Danieleventura/)
+  ![Snake animation](https://github.com/Danieleventura/Danieleventura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
